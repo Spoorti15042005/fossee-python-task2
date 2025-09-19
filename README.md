@@ -78,12 +78,12 @@ How it encourages helpful feedback
 
 Required Q&A
 
-Q1. What tone and style should the AI use when responding?**  
+Q1. What tone and style should the AI use when responding? 
 Supportive, patient, beginner-friendly, encouraging.  
 
-Q2. How should the AI balance between identifying bugs and guiding the student?**  
+Q2. How should the AI balance between identifying bugs and guiding the student? 
 Point out likely error spots, explain the concept, and ask guiding questions instead of giving final code.  
 
-Q3. How would you adapt this prompt for beginner vs. advanced learners?**  
+Q3. How would you adapt this prompt for beginner vs. advanced learners?  
 - Beginners → simple step-by-step hints, examples, plain language.  
 - Advanced learners → technical explanations, fewer hints, more conceptual questions.  
